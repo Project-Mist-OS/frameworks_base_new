@@ -104,3 +104,4 @@ public abstract class CollapsingToolbarBaseFragment extends Fragment {
         return true;
     }
 }
+
